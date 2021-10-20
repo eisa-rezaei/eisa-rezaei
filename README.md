@@ -18,3 +18,10 @@
   </div>
 
    
+<div align="center">
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark" />
+<br>
+<br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" />
+ </div>
