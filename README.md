@@ -3,6 +3,14 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=eisa-rezaei)
 
 
+   
+<div align="center">
+<br>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eisa-Rezaei&show_icons=true&theme=dark" />
+ </div>
+
+
  <div align="center">
  <br>
   <a href="https://t.me/Eisa_Rezaeei">
@@ -16,10 +24,3 @@
 </a>   
  
   </div>
-
-   
-<div align="center">
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Eisa-Rezaei&show_icons=true&theme=dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=github_dark" />
- </div>
