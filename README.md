@@ -5,7 +5,7 @@
 
    
 <div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=github_white" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=github_light" />
   <img src="https://github-readme-stats.vercel.app/api?username=Eisa-Rezaei&show_icons=true&theme=white" />
  </div>
 
