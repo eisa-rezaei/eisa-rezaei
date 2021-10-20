@@ -1,8 +1,5 @@
 <img src="./eisa_rezaei.png" atl="eisa_rezaei"  width="100%"/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=eisa-rezaei)
-
-
    
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=nord_bright" width="100%" />
@@ -23,3 +20,5 @@
 </a>   
  
   </div>
+
+![](https://visitor-badge.glitch.me/badge?page_id=eisa-rezaei)
