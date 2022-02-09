@@ -2,9 +2,7 @@
 <img src="./eisa_rezaei.webp" atl="eisa_rezaei"  width="100%"/>
 
    
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eisa-rezaei&theme=nord_bright" width="100%" alt="eisa-rezaei"/>
- </div>
+
 
 
  <div align="center">
