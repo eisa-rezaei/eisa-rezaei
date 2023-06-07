@@ -1,6 +1,14 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Eisa Rezaei <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="./eisa_rezaei.webp" atl="eisa_rezaei"  width="100%"/>
 
+
+#### :hammer_and_wrench: My stats :
+<a href="https://github.com/eisa-rezaei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisa-rezaei&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+</a>
+<a href="https://github.com/eisa-rezaei">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=eisa-rezaei&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+</a>
    
 
 #### :hammer_and_wrench: Languages and Tools :
