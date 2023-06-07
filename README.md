@@ -4,10 +4,10 @@
 
 #### :hammer_and_wrench: My stats :
 <a href="https://github.com/eisa-rezaei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisa-rezaei&theme=light&count_private=true&layout=compact" width="35%" alt="eisa-rezaei's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisa-rezaei&theme=light&count_private=true&layout=compact" width="36%" alt="eisa-rezaei's most used languages" />
 </a>
 <a href="https://github.com/eisa-rezaei">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eisa-rezaei&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="60%" alt="eisa-rezaei's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=eisa-rezaei&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="63%" alt="eisa-rezaei's github stats"/>
 </a>
    
 
