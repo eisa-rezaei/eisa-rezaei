@@ -5,7 +5,7 @@
 <img src="./eisa_rezaei.webp" atl="eisa_rezaei"  width="100%"/>
 </div>
 
-#### :hammer_and_wrench: My stats :
+#### My stats :hammer_and_wrench: :
 
 <a href="https://github.com/eisa-rezaei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisa-rezaei&theme=light&count_private=true&layout=compact" width="36%" alt="eisa-rezaei's most used languages" />
