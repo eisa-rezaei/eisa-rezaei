@@ -1,11 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eisa-rezaei&label=Profile%20views&color=C70039&style=flat" alt="ٍEisa Rezaei" /></p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=eisa-rezaei&label=Profile%20views&color=C70039&style=flat" alt="ٍEisa Rezaei" /> </p>
 
 <div>
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Eisa Rezaei <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Eisa Rezaei <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img src="./eisa_rezaei.webp" atl="eisa_rezaei"  width="100%"/>
 </div>
 
-#### My stats :hammer_and_wrench: :
+#### :hammer_and_wrench: My stats:
 
 <a href="https://github.com/eisa-rezaei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisa-rezaei&theme=light&count_private=true&layout=compact" width="36%" alt="eisa-rezaei's most used languages" />
