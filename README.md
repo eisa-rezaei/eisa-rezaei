@@ -6,16 +6,6 @@
 <img src="./eisa_rezaei.webp" atl="eisa_rezaei"  width="100%"/>
 </div>
 
-#### :hammer_and_wrench: My stats:
-
-<a href="https://github.com/eisa-rezaei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eisa-rezaei&theme=light&count_private=true&layout=compact" width="36%" alt="eisa-rezaei's most used languages" />
-</a>
-<div>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eisa-rezaei&theme=nord_bright" width="100%" />
-</div>
-   
-
 #### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp; &nbsp;
