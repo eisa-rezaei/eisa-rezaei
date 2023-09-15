@@ -1,6 +1,6 @@
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=eisa-rezaei&label=Profile%20views&color=C70039&style=flat" alt="ٍEisa Rezaei" /> </p>
 
- #### :hammer_and_wrench: Eisa Rezaei 
+#### :hammer_and_wrench: Eisa Rezaei :
 <div>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <br/>
